@@ -1,0 +1,48 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+input {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+label {
+	font-size: 24px;
+}
+
+.header {
+	background-color: #c5eff7;
+	padding: 10px 0px 15px 0px;
+}
+
+.flex-form {
+	padding: 10px;
+	background-color: #ffffff;
+	display: flex;
+	flex-direction: column;
+	margin-top: 50px;
+	border: 10px solid #153a93;
+	border-radius: 15px;
+}
+
+.btn {
+	margin-left: 5px;
+	margin-top: 10px;
+}
+
+#movieGifs {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	background-color: #c5eff7; 
+	margin-top: 10px;
+	margin-bottom: 50px;
+}
+
+#submission {
+	border-radius: 0px;
+}
+
+
